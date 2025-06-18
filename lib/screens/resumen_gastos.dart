@@ -1,1 +1,0 @@
-// Pantalla resumen
